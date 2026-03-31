@@ -28,6 +28,10 @@ MODEL:
 function model(x) { return {a: x}; }
 ```
 
+---
+
+I think about changing scoring function to make it more interesting. The new scoring is like this: Remaining energy times accuracy multiplier (previous % scale). This allows to gain more scores by inferring faster and more efficiently and adds new dimension of risk and reward.
+
 So in this example it is AN BOOLEAN IDENTITY UNIVERSE.
 
 EXAMPLE GAME 2:
