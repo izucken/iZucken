@@ -18,5 +18,5 @@ We need to not go extinct. Have you ever borne a child? Well clearly you are not
 # [Senior Moribund]
 We need someone to die. Have you ever expired? This position demands 100+ years of decomposition experience and proven hospis track record; otherwise you are not allowed to die.
 
-#[Comprehensive Perceptor]
+# [Comprehensive Perceptor]
 We need someone to read this job posting. Have you ever processed visual information? We require 95+/100 vision 10+ years of experience decoding absurdism. You must have continuous meme interpretation portfolio from 1900 onwards.
